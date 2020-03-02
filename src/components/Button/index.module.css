@@ -1,0 +1,12 @@
+.container {
+  border: 1px solid #642CB9;
+  color: white;
+  padding: 16px 40px;
+  text-decoration: none;
+  border-radius: 40px;
+}
+
+.container:hover {
+  background-color: #642CB9;
+  transition: background-color 250ms ease-out;
+}
